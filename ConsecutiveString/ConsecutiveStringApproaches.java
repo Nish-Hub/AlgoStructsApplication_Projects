@@ -1,4 +1,6 @@
-package com.lru;
+/*
+Problem statement : https://www.hackerearth.com/challenge/competitive/code-monk-array-strings/algorithm/chandu-and-consecutive-letters/
+*/
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
